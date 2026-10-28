@@ -20,7 +20,7 @@ My product work includes **CARTEX**, for AI-assisted analysis of used cars, and 
 ## Selected projects
 
 <p>
-  <img src="./assets/project-cartex.svg" alt="CARTEX — AI-assisted used-car analysis" width="360" />
+  <img src="./assets/project-cartex-v2.png" alt="CARTEX — AI-assisted used-car analysis" width="100%" />
 </p>
 
 AI-assisted analysis for the used-car market, shaped around clear, useful vehicle insights.

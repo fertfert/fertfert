@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Timur — Python and AI Product Builder" width="100%" />
+  <img src="./assets/hero-v2.png" alt="Timur — Python and AI Product Builder" width="100%" />
 </p>
 
 <p align="center">
@@ -19,24 +19,11 @@ My product work includes **CARTEX**, for AI-assisted analysis of used cars, and 
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="./assets/project-cartex.svg" alt="CARTEX — AI-assisted used-car analysis" width="100%" />
-      <p>AI-assisted analysis for the used-car market, shaped around clear, useful vehicle insights.</p>
-    </td>
-    <td width="33%" valign="top">
-      <img src="./assets/project-agents.svg" alt="AI Agents — practical workflow automation" width="100%" />
-      <p>AI agents and automation designed to make real workflows simpler.</p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/fertfert/city_summary">
-        <img src="./assets/project-city-summary.svg" alt="City Summary — a Python CLI for weather and currency snapshots" width="100%" />
-      </a>
-      <p>A Python CLI that combines city weather with a currency-to-RUB snapshot. <a href="https://github.com/fertfert/city_summary">View repository →</a></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/project-cartex.svg" alt="CARTEX — AI-assisted used-car analysis" width="360" />
+</p>
+
+AI-assisted analysis for the used-car market, shaped around clear, useful vehicle insights.
 
 ## Stack
 

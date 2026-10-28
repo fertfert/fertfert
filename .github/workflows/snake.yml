@@ -1,0 +1,53 @@
+name: Refresh profile visuals
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/update_profile_stats.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-snake.svg?color_snake=%23E53935&color_dots=%230D1117,%231B1115,%234A1721,%238D202B,%23E53935
+
+      - name: Update public profile stats
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python .github/scripts/update_profile_stats.py
+
+      - name: Keep generated files in the profile repository
+        run: |
+          cp dist/contribution-snake.svg assets/contribution-snake.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-snake.svg assets/github-stats.svg
+          if git diff --cached --quiet; then
+            echo "Profile visuals are already current."
+          else
+            git commit -m "chore: refresh profile visuals"
+            git push
+          fi

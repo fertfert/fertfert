@@ -32,7 +32,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contribution-snake.svg?color_snake=%23E53935&color_dots=%230D1117,%231B1115,%234A1721,%238D202B,%23E53935
+            dist/contribution-snake.svg?color_snake=%23E53935&color_dots=%23161B22,%2327161C,%234A1721,%238D202B,%23E53935
 
       - name: Update public profile stats
         env:

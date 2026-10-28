@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="182" viewBox="0 0 1200 182" role="img" aria-labelledby="title desc">
+  <title id="title">Core toolkit</title>
+  <desc id="desc">Python, aiogram, Flask, React, TypeScript, SQLite, and Docker.</desc>
+  <rect x="1" y="1" width="1198" height="180" rx="18" fill="#0D1117" stroke="#30363D" />
+  <text x="34" y="43" fill="#E53935" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2">CORE TOOLKIT</text>
+  <text x="1164" y="43" text-anchor="end" fill="#6E7781" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">PRODUCTS FROM FRONTEND TO INFRA</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="600">
+    <g transform="translate(34 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#67212C"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">Python</text></g>
+    <g transform="translate(178 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">aiogram</text></g>
+    <g transform="translate(322 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">Flask</text></g>
+    <g transform="translate(466 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">React</text></g>
+    <g transform="translate(610 65)"><rect width="152" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">TypeScript</text></g>
+    <g transform="translate(774 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">SQLite</text></g>
+    <g transform="translate(918 65)"><rect width="132" height="42" rx="10" fill="#171B22" stroke="#3A3033"/><circle cx="21" cy="21" r="4" fill="#E53935"/><text x="36" y="26" fill="#F0F3F6">Docker</text></g>
+  </g>
+  <path d="M34 132H1164" stroke="#252B33" />
+  <text x="34" y="158" fill="#737D89" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">BOTS  /  MINI APPS  /  APIS  /  AUTOMATION</text>
+  <text x="1164" y="158" text-anchor="end" fill="#737D89" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.4">DESIGNED TO SHIP</text>
+</svg>

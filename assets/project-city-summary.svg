@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="186" viewBox="0 0 360 186" role="img" aria-labelledby="title desc">
+  <title id="title">City Summary</title>
+  <desc id="desc">A Python command-line tool for city weather and currency snapshots.</desc>
+  <rect x="1" y="1" width="358" height="184" rx="16" fill="#0D1117" stroke="#343239" />
+  <rect x="1" y="1" width="4" height="184" rx="2" fill="#68202B" />
+  <text x="24" y="35" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">03  /  PUBLIC REPOSITORY</text>
+  <g transform="translate(278 22)" stroke="#E53935" stroke-width="1.5" fill="none">
+    <circle cx="25" cy="22" r="10" />
+    <path d="M25 6v-5M25 43v-5M9 22H4m42 0h-5M14 11l-4-4m30 30-4-4" />
+    <path d="M3 67V51h12v16m3 0V42h14v25m4 0V49h15v18" />
+    <path d="M0 68h52" />
+  </g>
+  <text x="24" y="102" fill="#F0F3F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700">CITY SUMMARY</text>
+  <text x="24" y="128" fill="#B1BAC4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Weather + currency, in one Python CLI</text>
+  <path d="M24 151H336" stroke="#30363D" />
+  <text x="24" y="170" fill="#747D87" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1">OPEN-METEO  /  FRANKFURTER</text>
+</svg>

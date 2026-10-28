@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="142" viewBox="0 0 1160 142" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution animation preview</title>
+  <desc id="desc">A locally stored placeholder will be replaced with the real contribution snake by GitHub Actions.</desc>
+  <rect x="1" y="1" width="1158" height="140" rx="18" fill="#0D1117" stroke="#30363D" />
+  <g fill="#1A1D24">
+    <rect x="38" y="42" width="14" height="14" rx="3"/><rect x="58" y="42" width="14" height="14" rx="3"/><rect x="78" y="42" width="14" height="14" rx="3"/><rect x="98" y="42" width="14" height="14" rx="3"/><rect x="118" y="42" width="14" height="14" rx="3"/>
+    <rect x="38" y="62" width="14" height="14" rx="3"/><rect x="58" y="62" width="14" height="14" rx="3"/><rect x="78" y="62" width="14" height="14" rx="3"/><rect x="98" y="62" width="14" height="14" rx="3"/><rect x="118" y="62" width="14" height="14" rx="3"/>
+    <rect x="38" y="82" width="14" height="14" rx="3"/><rect x="58" y="82" width="14" height="14" rx="3"/><rect x="78" y="82" width="14" height="14" rx="3"/><rect x="98" y="82" width="14" height="14" rx="3"/><rect x="118" y="82" width="14" height="14" rx="3"/>
+  </g>
+  <path d="M151 69h32c14 0 14-25 28-25s14 49 28 49 14-24 28-24h31" stroke="#E53935" stroke-linecap="round" stroke-width="4" />
+  <circle cx="298" cy="69" r="6" fill="#E53935" />
+  <text x="341" y="66" fill="#F0F3F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="650">Your contribution snake will appear here.</text>
+  <text x="341" y="91" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">LOCAL FALLBACK  ·  NO THIRD-PARTY IMAGE SERVICE</text>
+</svg>

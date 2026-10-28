@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Timur — Python and AI Product Builder</title>
+  <desc id="desc">A dark graphite banner with a red signal line and a product-builder headline.</desc>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(490 260 -170 320 1150 4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7F1D2D" stop-opacity=".52" />
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="signal" x1="60" x2="1130" y1="262" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E53935" />
+      <stop offset="1" stop-color="#E53935" stop-opacity=".08" />
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#E6EDF3" stroke-opacity=".045" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="#0D1117" />
+  <rect width="1200" height="310" rx="22" fill="url(#glow)" />
+  <rect width="1200" height="310" rx="22" fill="url(#grid)" />
+  <path d="M54 28V282" stroke="#E53935" stroke-width="3" />
+  <text x="84" y="73" fill="#E53935" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="3.2">INDEPENDENT BUILDER  /  PYTHON × AI</text>
+  <text x="78" y="170" fill="#F0F3F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="88" font-weight="750" letter-spacing="-4">TIMUR</text>
+  <text x="84" y="211" fill="#B1BAC4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" letter-spacing=".4">Turning practical ideas into useful products.</text>
+  <path d="M84 262H1128" stroke="url(#signal)" stroke-width="1.5" />
+  <circle cx="1128" cy="262" r="4" fill="#E53935" />
+  <text x="84" y="287" fill="#737D89" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8">TELEGRAM APPS  ·  BACKENDS  ·  AUTOMATION</text>
+  <g transform="translate(1008 63)">
+    <rect width="124" height="124" rx="62" fill="#12171E" stroke="#61202B" />
+    <circle cx="62" cy="62" r="43" stroke="#E53935" stroke-opacity=".65" />
+    <path d="M45 75 58 45l12 30M50 64h17" stroke="#F0F3F6" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" />
+    <circle cx="84" cy="40" r="4" fill="#E53935" />
+  </g>
+</svg>

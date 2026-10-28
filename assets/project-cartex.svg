@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="186" viewBox="0 0 360 186" role="img" aria-labelledby="title desc">
+  <title id="title">CARTEX</title>
+  <desc id="desc">AI-assisted analysis for the used-car market.</desc>
+  <rect x="1" y="1" width="358" height="184" rx="16" fill="#0D1117" stroke="#343239" />
+  <rect x="1" y="1" width="4" height="184" rx="2" fill="#E53935" />
+  <text x="24" y="35" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2">01  /  PRODUCT</text>
+  <g transform="translate(257 20)" stroke="#E53935" stroke-width="1.5" fill="none">
+    <path d="m3 38 7-18h54l12 18 7 5v18H3V43z" />
+    <path d="M17 21 12 37h49L50 21M13 48h11m37 0h11" />
+    <circle cx="19" cy="61" r="5" fill="#0D1117"/><circle cx="63" cy="61" r="5" fill="#0D1117"/>
+  </g>
+  <text x="24" y="102" fill="#F0F3F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="700">CARTEX</text>
+  <text x="24" y="128" fill="#B1BAC4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">AI-assisted used-car analysis</text>
+  <path d="M24 151H336" stroke="#30363D" />
+  <text x="24" y="170" fill="#747D87" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1">CLEARER SIGNAL FOR EVERY LISTING</text>
+</svg>

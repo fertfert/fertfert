@@ -4,7 +4,7 @@
   <defs>
     <clipPath id="typed">
       <rect x="0" y="0" width="0" height="44">
-        <animate attributeName="width" values="0;408;408;0;0" keyTimes="0;.48;.77;.91;1" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;490;490;0;0" keyTimes="0;.48;.77;.91;1" dur="6s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
@@ -13,9 +13,9 @@
     <text x="31" y="31" fill="#E53935" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">NOW</text>
     <path d="M78 7v34" stroke="#30363D" />
     <g clip-path="url(#typed)">
-      <text x="101" y="32" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">building useful AI products</text>
+      <text x="101" y="32" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">building useful AI products</text>
     </g>
-    <rect x="416" y="15" width="2" height="22" fill="#E53935">
+    <rect x="496" y="15" width="2" height="22" fill="#E53935">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.51;1" dur=".9s" repeatCount="indefinite" />
     </rect>
     <text x="1122" y="31" text-anchor="end" fill="#606A75" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">01 / PRODUCT</text>

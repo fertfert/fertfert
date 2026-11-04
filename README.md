@@ -17,6 +17,13 @@ Hey, I’m Timur — a Python / AI Product Builder. I turn practical ideas into 
 
 My product work includes **CARTEX**, for AI-assisted analysis of used cars, and **AI agents** built around useful workflows. I enjoy taking a problem from a rough idea to a clear, working product.
 
+## Hackathon results
+
+My team and I earned the following placements.
+
+- **1st place** at О! Хакатон 2026
+- **3rd place** at PostCode Challenge 2026
+
 ## Selected projects
 
 <p>

@@ -35,7 +35,7 @@ AI-assisted analysis for the used-car market, shaped around clear, useful vehicl
 ## Stack
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Python, aiogram, Flask, React, TypeScript, SQLite, and Docker" width="100%" />
+  <img src="./assets/stack.svg?v=1526b1d8" alt="Python, aiogram, Flask, React, TypeScript, SQL / NoSQL, and Docker" width="100%" />
 </p>
 
 ## GitHub stats
